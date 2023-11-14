@@ -1,0 +1,87 @@
+<html>
+   <head>
+   <style>
+       body {
+           font-family: Times, Times;
+           background: rgb(5, 197, 234);
+       }
+   </style>
+   
+   
+      <title>Koala Bear Blog</title>
+      <link rel="icon"     href="https://images.unsplash.com/photo-1519003300449-424ad0405076?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGtvYWxhfGVufDB8fDB8fHww" type="image/gif" sizes="16x16">
+       <link rel="stylesheet" href="main.css" >
+<link rel="stylesheet"  href="https://images.unsplash.com/photo-1544779493-aa344a6ddaac?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+</head>
+<body>
+<div class="intro">
+<p id="name" name="intro">Hello All! Welcome to my Koala Bear Blog. I Hope You Love Koala Bears As Much As I Do ♥</p>
+</div>
+</body>
+</html>
+<div>
+  <br>
+    <center>
+       <h1>Koala Bear Blog Posts ♥</h1>
+    </center>
+  <br>
+</div>
+<div class="blogs">
+  <div class="column">
+    <div class="card">
+       <a href="post1.html">
+          <img src="https://images.unsplash.com/photo-1587424497774-e56e873f57c7?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="image" height="300" width="400"/></a>
+     <h3>Koala Bear Fun Fact #1</h3>
+     <p>THEY HAVE A SPECIALIST DIET COMPRISING OF POISONOUS LEAVES (EUCALYPTUS LEAVES).</p>
+  </div>
+ </div>
+<div class="column">
+<div class="card">
+<img src="https://images.unsplash.com/photo-1607183199003-cf994ad22ed8?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="image" height="300" width="400"/>
+<h3>Koala Bear Fun Fact #2</h3>
+<p>THEY LIVE IN AUSTRALIA ONE OF THE DRIEST CONTINENTS IN THE WORLD.</p>
+</div>
+</div>
+<div class="column">
+<div class="card">
+<img src="https://images.unsplash.com/photo-1569462372018-f7d9be642034?q=80&w=1631&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="image" height="300" width="400"/>
+<h3>Koala Bear Fun Fact #3</h3>
+<p>THEY SHARE MORE COMMON FEATURES WITH KANGAROOS THAN TRUE BEARS.</p>
+</div>
+</div>
+</div>
+<div class="blogs">
+<div class="column">
+<div class="card">
+<img src="" height="300" width="400"/>
+<h3>Koala Bear Fun Fact #4</h3>
+<p>THEY CAN SLEEP UP TO 18-20 HOURS EVERYDAY.</p>
+</div>
+</div>
+<div class="column">
+<div class="card">
+<img src="" height="300" width="400"/>
+<h3>How To Care For Koala Bears ♥ </h3>
+<ul>
+    <li>Plant Native Trees to Give Koala's a Habitat 
+    <li>Protect the Koala's Habitat That's Already Present
+    <li> Donate To Charities To Help Our Koala Bear's Out such as,<b> Save The Koala</B> and <b>Koala Hospital</b>
+
+</li></ul>
+</div>
+</div>
+<div class="column">
+<div class="card">
+<img src="" height="300" width="400"/>
+<h3>Thanks For Visiting My Blog!</h3>
+<p>Please, Let's Work Together To Keep The Koala Environment and Habitat  Safe</p>
+<button> type= "Koala Bear Blog Posts ♥ "</button><ul>
+<li><a href="#home">About</a></li>
+<li><a href="#news">News & Updates</a></li>
+<li><a href="#contact">Contact</a></li>
+</ul>
+
+
+</div>
+</div>
+</div>
